@@ -4,15 +4,15 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-.idea/encodings.xml
-.idea/material_theme_project_new.xml
-.idea/misc.xml
-.idea/vcs.xml
-.idea/workspace.xml
+modules.xml
+jarRepositories.xml
+compiler.xml
+libraries/
+encodings.xml
+material_theme_project_new.xml
+misc.xml
+vcs.xml
+workspace.xml
 *.iws
 *.iml
 *.ipr
